@@ -1,0 +1,66 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="description" content="This is my website">
+    <title>Learning Programming</title>
+  </head>
+  <body style="background-color:green;">
+<h1>my first website</h1>
+<hr>
+<br><br><br>
+<p style="color: blue;">This is my <b>paragraph</b></p>
+<p style="color: orange;">This is another <b><i>paragraphs</i></b></p>
+<p style="color: green;"><big>This is another</big> <small>but another paragraph</small></p>
+<h2>Examples with math</h2><br><br>
+<p>H<sub>2</sub>0</p><hr>
+<p>10<sup>2</sup></p>
+<!--this is a comment and it is invisible only me can see-->
+    <!-- loco-->
+<h3 style="color: purple;">Styles and colors</h3>
+<p style="color: blue;background-color:red;">This is my <b>paragraph</b></p>
+<p style="color: orange;background-color:blue;">This is another <b><i>paragraphs</i></b></p>
+<p style="color: green;background-color:gray;"><big>This is another</big> <small>but another paragraph<br></small></p>
+
+
+   <header>
+     <nav>
+     </nav>
+   </header>
+   
+  
+    <main>
+      <article>
+         <section>
+ H1
+ H2
+ H3
+             <aside>
+             
+                        
+            
+            
+         </aside></section>
+      </article>
+  
+  
+  
+    <footer>
+    </footer>
+  <!--Links how to use it-->
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+    
+	
+  
+</main></body></html>
